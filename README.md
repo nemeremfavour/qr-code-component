@@ -20,7 +20,7 @@ First Challenge I tried for Frontend Mentor. I had a little issue in postioning 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://nemeremfavour.github.io/qr-code-component/)
 
 
 ### Built with
