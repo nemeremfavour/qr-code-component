@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Outfit:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Outfit';
+  font-size: 15px;
+}
+
+/* Care Layout */
+#qr {
+  text-align: center;
+
+}
+
+.dv {
+  background-color: hsl(219, 15%, 55%);
+  padding: 1px 30%;
+  height: 100vh;
+}
+
+.dv2 {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  padding: 25px 20px;
+  margin: 15% 15%;
+  box-shadow: 6px 8px 10px #0000002d;
+}
+
+.dv2 img {
+  width: 95%;
+  border-radius: 20px;
+}
+
+.dv2 h1 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.dv2 p {
+  font-weight: 400;
+  color: hsl(212, 45%, 89%);
+}
+
+@media only screen and (max-width: 375px) {
+
+  .dv {
+    background-color: hsl(219, 15%, 55%);
+    padding: 1px 5%;
+    height: 100vh;
+  }
+
+  .dv2 {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    padding: 25px 20px;
+    margin: 15% 5%;
+    box-shadow: 6px 8px 10px #0000002d;
+  }
+
+  .dv2 img {
+    width: 95%;
+    border-radius: 20px;
+  }
+
+  .dv2 h1 {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 20px;
+  }
+
+  .dv2 p {
+    font-weight: 400;
+    color: hsl(212, 45%, 89%);
+  }
+}
